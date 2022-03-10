@@ -1,6 +1,7 @@
 package com.qa.operators;
 
-public class Results {
+public class Results 
+{
 	public int physics;
 	public int chemistry;
 	public int biology;
@@ -16,5 +17,6 @@ public class Results {
 		this.percentage = (total*100) / 450;
 	}
 	
+
 
 }
